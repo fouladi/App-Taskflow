@@ -149,7 +149,7 @@ For a complete documentation of I<taskflow>,  see its POD.
 
 =head1 VERSION
 
-Version 1.0
+Version 1.1
 
 =cut
 
