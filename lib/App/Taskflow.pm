@@ -7,7 +7,7 @@ use Log::Handler;
 use DBM::Deep;
 $|++; # disable buffering on STDOUT - autoflush
 
-our $VERSION = '1.0';
+our $VERSION = '1.1';
 our $re_line = qr/(?<n>\w+):\s*(?<p>.+?)\s*(\[(?<dt>\w+)\]\s*)?:\s*(?<c>.*)\s*(?<a>\&)?/;
 
 sub daemonize {

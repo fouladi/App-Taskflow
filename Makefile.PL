@@ -33,6 +33,7 @@ WriteMakefile(
         'Log::Handler' => 0,
         'DBM::Deep'    => 0,
         'DB_File'      => 0,
+        'Log::Handler' => 0,
         'Getopt::Lucid'=> 0
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },

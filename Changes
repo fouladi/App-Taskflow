@@ -1,5 +1,9 @@
 Revision history for App-Taskflow
 
+1.1 2015-03-05
+
+    * Undeclared dependencies added
+
 1.0 2013-01-14
 
     * one file script `tasklet` with minimal dependencies added.
